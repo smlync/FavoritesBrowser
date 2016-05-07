@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Droid/FavoritesBrowser.Droid.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FavoritesBrowser/Views/MainPage.xaml">
+    <Files>
+      <File FileName="FavoritesBrowser/FavoritesBrowser.cs" Line="40" Column="10" />
+      <File FileName="FavoritesBrowser/Product.cs" Line="2" Column="1" />
+      <File FileName="FavoritesBrowser/Views/MainPage.xaml" Line="6" Column="23" />
+      <File FileName="FavoritesBrowser/Views/MainPage.xaml.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FavoritesBrowser.Droid PreferredExecutionTarget="Android.JellyBean" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FavoritesBrowser.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.431E2491-1251-4510-A3C5-567F10A4B2A5" />
+</Properties>

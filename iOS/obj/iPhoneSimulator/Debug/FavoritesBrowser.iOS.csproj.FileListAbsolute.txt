@@ -1,0 +1,12 @@
+C:\Users\slync\Source\Workspaces\FavoritesBrowser\iOS\obj\iPhoneSimulator\Debug\ibtool\LaunchScreen.storyboardc\01J-lp-oVM-view-Ze5-6b-2t3.nib
+C:\Users\slync\Source\Workspaces\FavoritesBrowser\iOS\obj\iPhoneSimulator\Debug\ibtool\LaunchScreen.storyboardc\Info.plist
+C:\Users\slync\Source\Workspaces\FavoritesBrowser\iOS\obj\iPhoneSimulator\Debug\ibtool\LaunchScreen.storyboardc\UIViewController-01J-lp-oVM.nib
+C:\Users\slync\Source\Workspaces\FavoritesBrowser\iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\slync\Source\Workspaces\FavoritesBrowser\iOS\obj\iPhoneSimulator\Debug\actool\partial-info.plist
+C:\Users\slync\Source\Workspaces\FavoritesBrowser\iOS\obj\iPhoneSimulator\Debug\actool\asset-manifest.plist
+C:\Users\slync\Source\Workspaces\FavoritesBrowser\iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\slync\Source\Workspaces\FavoritesBrowser\iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\slync\Source\Workspaces\FavoritesBrowser\iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\slync\Source\Workspaces\FavoritesBrowser\iOS\obj\iPhoneSimulator\Debug\FavoritesBrowser.iOS.csprojResolveAssemblyReference.cache
+C:\Users\slync\Source\Workspaces\FavoritesBrowser\iOS\obj\iPhoneSimulator\Debug\FavoritesBrowseriOS.exe
+C:\Users\slync\Source\Workspaces\FavoritesBrowser\iOS\obj\iPhoneSimulator\Debug\FavoritesBrowseriOS.pdb

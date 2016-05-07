@@ -65,9 +65,9 @@ namespace FavoritesBrowser
 				}; // StackLayout
 		}; // ContentPage
 
-		MainPage = new NavigationPage(content);
+		MainPage = new NavigationPage(content);*/
 		}
-		*/
+		
 			#endregion
 
 		protected override void OnStart()

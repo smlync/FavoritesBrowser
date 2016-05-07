@@ -1,0 +1,7 @@
+C:\Users\mmutz\Dropbox\FavoritesBrowser\FavoritesBrowser\obj\Debug\FavoritesBrowser.Views.MainPage.xaml.g.cs
+C:\Users\mmutz\Dropbox\FavoritesBrowser\FavoritesBrowser\obj\Debug\FavoritesBrowser.dll.mdb
+C:\Users\mmutz\Dropbox\FavoritesBrowser\FavoritesBrowser\bin\Debug\FavoritesBrowser.dll.mdb
+C:\Users\slync\Source\Workspaces\FavoritesBrowser\FavoritesBrowser\obj\Debug\FavoritesBrowser.csprojResolveAssemblyReference.cache
+C:\Users\slync\Source\Workspaces\FavoritesBrowser\FavoritesBrowser\obj\Debug\FavoritesBrowser.Views.MainPage.xaml.g.cs
+C:\Users\slync\Source\Workspaces\FavoritesBrowser\FavoritesBrowser\obj\Debug\FavoritesBrowser.dll
+C:\Users\slync\Source\Workspaces\FavoritesBrowser\FavoritesBrowser\obj\Debug\FavoritesBrowser.pdb
