@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 using Xamarin.Forms;
 
-namespace FavoritesBrowser
+namespace FavoritesBrowser.Views
 {
 	public partial class MainPage : ContentPage
 	{

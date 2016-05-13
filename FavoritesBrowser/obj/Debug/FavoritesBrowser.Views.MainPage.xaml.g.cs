@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace FavoritesBrowser {
+namespace FavoritesBrowser.Views {
     using System;
     using Xamarin.Forms;
     using Xamarin.Forms.Xaml;

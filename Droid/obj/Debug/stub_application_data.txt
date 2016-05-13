@@ -1,2 +1,0 @@
-android.app.Application
-com.x4imprint.favorites_browser
